@@ -1,0 +1,7 @@
+<?php
+
+// Database connection definition
+$con = mysqli_connect("host","DBuser","DBpass","DBname")
+       or die('Unable To connect');
+?>
+

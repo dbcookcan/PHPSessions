@@ -1,0 +1,6 @@
+# ignore db config file
+db.php
+
+# Ignore MacOS Finder files
+._*
+
